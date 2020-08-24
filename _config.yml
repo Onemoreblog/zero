@@ -1,13 +1,13 @@
 # Site settings
-title:          Rain
-description:    "Rain is a simple and clean Jekyll theme with focus on content."
-url:            https://github.com/inelaah/rain
+title:          Swift
+description:    "One more swift blog"
+url:            https://github.com/mugamoodi/zero
 
 # Author
 author:
-  name:         Inela Avdic Hukic
-  email:        inelaah@gmail.com
-  url:          https://inelaah.com
+  name:         Rajeshkumar
+  email:        rajesh.lingavel@gmail.com
+  url:          https://github.com/mugamoodi/zero
 
 # Build settings
 markdown:       kramdown
@@ -25,7 +25,7 @@ plugins:
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
-paginate:       5
+paginate:       50
 
 # Related posts settings
 related_posts_section:
@@ -34,7 +34,6 @@ related_posts_section:
 
 # Links to social media
 social:
-  email: inelaah@gmail.com
-  github: https://github.com/inelaah
-  twitter: https://twitter.com
-  linkedin: https://ba.linkedin.com/in/inela-avdic-hukic-322354131
+  email: rajesh.lingavel@gmail.com
+  github: https://github.com/mugamoodi/zero
+  twitter: https://twitter.com/rajeshkumarlc

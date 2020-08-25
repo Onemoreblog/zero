@@ -1,13 +1,12 @@
 # Site settings
 title:          One more blog
 description:    "One more blog"
-url:            https://github.com/Onemoreblog/zero
+url:            https://onemoreswift.com
 
 # Author
 author:
   name:         Rajeshkumar
-  email:        rajesh.lingavel@gmail.com
-  url:          https://github.com/Onemoreblog/zero
+  url:          https://onemoreswift.com
 
 # Build settings
 markdown:       kramdown
@@ -34,6 +33,4 @@ related_posts_section:
 
 # Links to social media
 social:
-  email: rajesh.lingavel@gmail.com
-  github: https://github.com/Onemoreblog/zero
   twitter: https://twitter.com/rajeshkumarlc

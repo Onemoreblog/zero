@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Multiline string literal tips and tricks"
+title: "Multiline string literal (Thamizhil)"
 author: "Rajeshkumar Lingavel"
 ---
 
@@ -10,28 +10,29 @@ author: "Rajeshkumar Lingavel"
 
 # எடுத்துக்காட்டாக:
 ```
-let infoMessage = """
-Welcome to my animation tool. You can use it to:
-- Convert images into animations.
-- Split an animation up into images.
-- Change the frame rate of an animation.
+let Essay = """
+Sachin Tendulkar Essay
+- Sachin Tendulkar was born on 24 April 1973 in Mumbai. 
+- His father, Ramesh Tendulkar was a famous Mandl novelist.
+- He has rightly earned the titles or nick names- ‘THE LITTLE MASTER’ and ‘MASTER BLASTER’.
 """
 ```
+# பயன்பாடுகள்:
 
 multiline string literals ல நம் கொடுத்த பார்மட் அப்படியே பயன்படுத்த முடியும் இதில் line break மட்டும் இல்லாமல் indentation bullet points என அனைத்தையும் அதில் String ல் இருப்பது  போல அப்படியே display செய்யும்.
 ```
-let infoMessage = """
-    Welcome to my animation tool. You can use it to:
-        - Convert images into animations.
-        - Split an animation up into images.
-        - Change the frame rate of an animation.
+let Essay = """
+    Sachin Tendulkar Essay
+    - Sachin Tendulkar was born on 24 April 1973 in Mumbai. 
+    - His father, Ramesh Tendulkar was a famous Mandl novelist.
+    - He has rightly earned the titles or nick names- ‘THE LITTLE MASTER’ and ‘MASTER BLASTER’.
 """
 ```
 
 அது மட்டுமில்லாம இதுல எளிதாக Singe quotation , multiple quotation எல்லாவற்றையும் escape string  இல்லாமல் எளிதாக பயன்படுத்த முடியும்.
 
 ```
-let infoMessage = """
+let HeightLight = """
     Hello please "HeightLight" this.
 """
 ```
@@ -39,20 +40,17 @@ let infoMessage = """
 multiline string literals மூலமாக String ஐ நாம் எளிதாக வாசிக்க முடியும்.
 
 ```
-assertionFailure("""
-An object for the key "\(key)" could not be found.
-""")
+let balls = """
+    Suresh found \(balls) under his bed.
+"""
 ```
 
 அதுபோல ஒரு new line உருவாவதை அந்த வரியின் இறுதியில் backslash கொண்டு தடுக்க முடியும் இது Log print செய்யும் சமயங்களில் நமக்கு பயன்படும்.
 
 ```
-assertionFailure("""
-An object for the key "\(key)" could not be found, \
-perhaps you forgot to add it using setObject(forKey:)?
+let errorInfo = """
+You are using http API, \
+Add App Transport Security Settings in your application plist
 """)
 ```
-
-
-> Note: This is tamil translation of swiftbysundell. [originalblog](https://www.swiftbysundell.com/tips/multiline-string-literal-tips-and-tricks/)
  

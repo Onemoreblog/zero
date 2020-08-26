@@ -18,7 +18,7 @@ Welcome to my animation tool. You can use it to:
 """
 ```
 
-multiline string literals ல நம் கொடுத்த பார்மட் அப்படியே பயன்படுத்தும் இதில் line break மட்டுமில்லாம indentation bullet points என அனைத்தையும் அதில் String ல் இருப்பது  போல அப்படியே display செய்யும்.
+multiline string literals ல நம் கொடுத்த பார்மட் அப்படியே பயன்படுத்த முடியும் இதில் line break மட்டும் இல்லாமல் indentation bullet points என அனைத்தையும் அதில் String ல் இருப்பது  போல அப்படியே display செய்யும்.
 ```
 let infoMessage = """
     Welcome to my animation tool. You can use it to:

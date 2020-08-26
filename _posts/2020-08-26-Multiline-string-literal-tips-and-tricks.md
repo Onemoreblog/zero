@@ -54,6 +54,5 @@ perhaps you forgot to add it using setObject(forKey:)?
 ```
 
 
-> Note: This is tamil translation of swiftbysundell.
->Orgininal blog: [originalblog](https://www.swiftbysundell.com/tips/multiline-string-literal-tips-and-tricks/)
+> Note: This is tamil translation of swiftbysundell. [originalblog](https://www.swiftbysundell.com/tips/multiline-string-literal-tips-and-tricks/)
  

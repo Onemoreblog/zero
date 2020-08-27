@@ -32,8 +32,8 @@ let Essay = """
 அது மட்டுமில்லாம இதுல எளிதாக Singe quotation , multiple quotation எல்லாவற்றையும் escape string  இல்லாமல் எளிதாக பயன்படுத்த முடியும்.
 
 ```
-let HeightLight = """
-    Hello please "HeightLight" this.
+let highlight = """
+    Hello please "Highlight" this.
 """
 ```
 

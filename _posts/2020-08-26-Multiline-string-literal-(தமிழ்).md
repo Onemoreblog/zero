@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Multiline string literal (Thamizhil)"
+title: "Multiline string literal (தமிழ்)"
 author: "Rajeshkumar Lingavel"
 ---
 
